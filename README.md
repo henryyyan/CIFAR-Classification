@@ -1,15 +1,3 @@
-# CS189/289A HW6: Neural Networks
+Classification of the CIFAR-10 dataset using convolutional neural networks (CNN), the MNIST dataset using multi-layer perceptrons (MLP), and the Iris dataset using neural networks. In particular, this was done for the introductory machine learning course at UC Berkeley, CS 189.
 
-Before running the code in this directory, please create a new `conda`
-environment by running:
-```sh
-bash conda_create.sh
-conda activate cs189sp24
-```
-
-To run all the tests, please run:
-```sh
-python -m unittest -v
-```
-
-Before submitting, please make sure that all the tests pass.
+**Note**: This is only posted here for employers and recruiters. Do not copy or use any code from this repo.
